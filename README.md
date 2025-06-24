@@ -38,9 +38,36 @@ react-todo-app/
 │ ├── index.html
 │ └── ...
 ├── src/
-│ ├── components/
-│ ├── App.js
 │ ├── index.js
+│ ├── App.js
+│ ├── Task.js
 │ └── ...
 ├── package.json
 └── README.md
+
+---
+
+## 🧑‍💻 Getting Started (Local Setup)
+
+To run this project locally:
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/your-username/react-todo-app.git
+cd react-todo-app
+
+### 2. Install dependencies
+npm install
+
+### 3. Start the development server
+npm start
+The app will open at http://localhost:3000.
+
+# 📦 Build for Production
+To create an optimized production build:
+
+npm run build
+This will generate the build folder which is ready to be deployed.
+
+
+
