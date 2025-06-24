@@ -32,19 +32,17 @@ A simple and elegant **To-Do List Application** built using **React**, styled wi
 ---
 
 ## 📂 Project Structure
-
+'''
 react-todo-app/
 ├── public/
-│ ├── index.html
-│ └── ...
+│ └── index.html
 ├── src/
 │ ├── index.js
 │ ├── App.js
-│ ├── Task.js
-│ └── ...
+│ └── Task.js
 ├── package.json
 └── README.md
-
+'''
 ---
 
 ## 🧑‍💻 Getting Started (Local Setup)
